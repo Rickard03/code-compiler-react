@@ -44,7 +44,7 @@ Open new terminal and type
 cd server
 ```
 
-Install server modules
+Then type
 ```sh
 npm install
 ```
