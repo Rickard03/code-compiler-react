@@ -23,12 +23,12 @@ Type
 cd client
 ```
 
-Type
+Then simple type
 ```sh
 npm install
 ```
 
-Type
+Last step
 ```sh
 npm run start
 ```
