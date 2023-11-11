@@ -44,12 +44,12 @@ Open new terminal and type
 cd server
 ```
 
-Type 
+Install server modules
 ```sh
 npm install
 ```
 
-Type
+Finally type
 ```sh
 nodemon server.js
 ```
