@@ -34,11 +34,6 @@ npm run start
 ```
 
 
-Then run
-```sh
-npm nodemon server.js
-```
-
 
 ## SERVER SETUP
 
