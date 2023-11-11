@@ -6,7 +6,7 @@
 ## Requirements?
 
 1. Press "Clone or download" and download it as a .zip file. 
-2. Extract the files somewhere on your computer. 
+2. Extract the folder to your computer. 
 3. Install NodeJS. It's required for it to work. https://nodejs.org/en/
 
 ## CLIENT SETUP
