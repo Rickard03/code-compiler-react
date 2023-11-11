@@ -55,4 +55,4 @@ nodemon server.js
 
 
 <p>Last updated 2023-11-11</p>
-<p>Contact my discord if you have issues Rickard#3501</p>
+<p>Add my discord if you have issues Rickard#3501</p>
