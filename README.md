@@ -40,7 +40,7 @@ npm nodemon server.js
 ```
 
 
-## SERVER Setup
+## SERVER SETUP
 
 
 Open new terminal and type
